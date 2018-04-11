@@ -2,5 +2,5 @@
 Just run `vagrant up --provision` to spin a nodejs enviroment on any computer.
 
 ## Requirements
-+Virtual Box
-+Vagrant
++ Virtual Box
++ Vagrant
